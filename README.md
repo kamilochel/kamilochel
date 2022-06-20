@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kamil.
+- 👨🏼‍💻 Swift DEV, Web/UI Design
+- 🏡 [kamilochel.pl](https://kamilochel.pl)
